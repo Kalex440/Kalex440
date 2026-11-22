@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/terminal.svg" alt="kalex440@github:~$ whoami : étudiant en DCG, projets Kozeni, Anti-veille et Ville du Savoir" width="100%">
+  <img src="assets/terminal.svg" alt="kalex440@github:~$ whoami : portrait ASCII, étudiant en DCG, projets Kozeni, Anti-veille et Ville du Savoir" width="100%">
 </p>
 
 ```console
